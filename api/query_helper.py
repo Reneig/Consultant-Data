@@ -2,7 +2,7 @@
 from sqlalchemy.orm import Session
 from sqlalchemy.orm import joinedload
 from typing import Optional
-
+import database as db
 import models
 
 # --- Films ---
