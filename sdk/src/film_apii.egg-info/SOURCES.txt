@@ -1,0 +1,10 @@
+pyproject.toml
+src/film_apii/__init__.py
+src/film_apii/film_client.py
+src/film_apii/film_config.py
+src/film_apii.egg-info/PKG-INFO
+src/film_apii.egg-info/SOURCES.txt
+src/film_apii.egg-info/dependency_links.txt
+src/film_apii.egg-info/top_level.txt
+src/film_apii/schemas/__init__.py
+src/film_apii/schemas/schemas.py
